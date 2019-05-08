@@ -16,7 +16,7 @@
 
 def speak_to_grandma(answer)
   if answer == "I LOVE YOU GRANDMA!"
-    puts "I LOVE YOU TOO PUMPKIN!"
+    returns "I LOVE YOU TOO PUMPKIN!"
   elsif answer == answer.upcase
     puts "NO, NOT SINCE 1938!"
   else answer
